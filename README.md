@@ -40,6 +40,11 @@ You can link directly to examples
 
 Or watch the [video demo](http://www.youtube.com/watch?v=_swiyXcUvNY)
 
+
+BlocklyDuinoは、ウェブツールです。[Web](http://www.gasolin.idv.tw/public/blockly/demos/blocklyduino/index.html)で、実際に動作するBlocklyDuinoを試すことができます。
+
+
+
 ### Run locally on your web browser
 
 If you want to install it locally. Get code from github and open blockly/demos/blocklyduino/index.html in your browser.
