@@ -14,6 +14,7 @@ BlocklyDuinoは、[Blockly](http://code.google.com/p/blockly/)をベースにし
 
 BlocklyDuinoは、[Grove](http://www.seeedstudio.com/wiki/GROVE_System)ブロックもサポートし、マイクロコントローラを使用した実験と学習が簡単に始められます。
 
+[Google+ ページもあります。](https://plus.google.com/111979846292233941175)
 
 ### Features
 
