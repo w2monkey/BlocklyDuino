@@ -23,6 +23,12 @@ BlocklyDuinoは、[Grove](http://www.seeedstudio.com/wiki/GROVE_System)ブロッ
 * Interacive Arduino board with 10+ predefined Grove sensor blocks
 * Load different on-site examples with url parameters
 
+* Arduinoプログラミングがビジュアル的なコードブロックのドラッグ・アンド・ドロップで行えます。
+* Arduinoの完全互換ソースコードを生成します。
+* インタラクティブなArduinoボードとして、10以上の定義済みのGroveセンサーブロックを使用できます。
+* URLパラメータにより、オンサイトの例を参照することができます。
+
+
 ### Demo
 
 BlocklyDuino is a web tool. You can give it a try at
