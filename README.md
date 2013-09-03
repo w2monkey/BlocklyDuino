@@ -7,6 +7,9 @@ BlocklyDuino also support [Grove](http://www.seeedstudio.com/wiki/GROVE_System) 
 
 [We also have Google+ Page](https://plus.google.com/111979846292233941175).
 
+
+BlocklyDuinoは、ウェブベースの[Arduino](http://www.arduino.cc/)向けのビジュアルプログラミングエディタです。
+
 ### Features
 
 * Programming Arduino with visually drag and drop code blocks
