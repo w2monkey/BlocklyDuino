@@ -84,7 +84,10 @@ The preffered way is to put the BlocklyDuino/web folder into a web server and op
 Check changelog [here](https://github.com/gasolin/BlocklyDuino/blob/master/CHANGELOG.txt)
 
 
-### 
+### 変更履歴
+
+変更履歴の確認 [here](https://github.com/gasolin/BlocklyDuino/blob/master/CHANGELOG.txt)
+
 
 ### Authors and Contributors
 Fred Lin (@gasolin) .
@@ -93,6 +96,8 @@ Thanks Neil Fraser, Q.Neutron from Blockly http://code.google.com/p/blockly/
 Thanks Arduino and Seeeduino guys for Arduino and Grove blocks.
 
 The project is also inspired by arduiblock https://github.com/taweili/ardublock and modkit http://www.modk.it/
+
+
 
 ### License
 
