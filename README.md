@@ -7,6 +7,7 @@ BlocklyDuino also support [Grove](http://www.seeedstudio.com/wiki/GROVE_System) 
 
 [We also have Google+ Page](https://plus.google.com/111979846292233941175).
 
+### ようこそ BlocklyDuino へ
 
 BlocklyDuinoは、ウェブベースの[Arduino](http://www.arduino.cc/)向けのビジュアルプログラミングエディタです。
 
@@ -22,6 +23,8 @@ BlocklyDuinoは、[Grove](http://www.seeedstudio.com/wiki/GROVE_System)ブロッ
 * Generate fully compatible arduino source code
 * Interacive Arduino board with 10+ predefined Grove sensor blocks
 * Load different on-site examples with url parameters
+
+### 特徴
 
 * Arduinoプログラミングがビジュアル的なコードブロックのドラッグ・アンド・ドロップで行えます。
 * Arduinoの完全互換ソースコードを生成します。
@@ -43,6 +46,8 @@ Or watch the [video demo](http://www.youtube.com/watch?v=_swiyXcUvNY)
 
 BlocklyDuinoは、ウェブツールです。[Web](http://www.gasolin.idv.tw/public/blockly/demos/blocklyduino/index.html)で、実際に動作するBlocklyDuinoを試すことができます。
 
+### デモ
+
 例のダイレクトリンク
 * [demo 1](http://www.gasolin.idv.tw/public/blockly/demos/blocklyduino/index.html?url=/public/blockly/demos/blocklyduino/examples/blink.xml)
 * [demo 2](http://www.gasolin.idv.tw/public/blockly/demos/blocklyduino/index.html?url=/public/blockly/demos/blocklyduino/examples/servo_potentio.xml)
@@ -60,6 +65,8 @@ The preffered way is to put the BlocklyDuino/web folder into a web server and op
 1. Open browser to BlocklyDuino, Drag and Drop blocks to make arduino program. 
 2. Select 'Arduino' tab to copy source code to Arduino IDE
 3. press 'upload' button to burn the code into arduino
+
+
 
 ### ChangeLog
 
