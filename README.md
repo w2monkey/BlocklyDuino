@@ -60,6 +60,12 @@ If you want to install it locally. Get code from github and open blockly/demos/b
 
 The preffered way is to put the BlocklyDuino/web folder into a web server and open the url like localhost/public/blockly/demos/blocklyduino/index.html for use.
 
+### ローカル環境のウェブブラウザで実行する
+
+ローカル環境にインストールしたいなら、ブラウザで、blockly/demos/blocklyduino/index.html をオープンして github からコードを入手できます。
+
+最善の方法は、ローカル環境のウェブサーバに BlocklyDuino/web フォルダを配置して、その url 例えば を localhost/public/blockly/demos/blocklyduino/index.html を開いて使用します。
+
 ### Usage (3 Step)
 
 1. Open browser to BlocklyDuino, Drag and Drop blocks to make arduino program. 
