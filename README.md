@@ -43,7 +43,11 @@ Or watch the [video demo](http://www.youtube.com/watch?v=_swiyXcUvNY)
 
 BlocklyDuinoは、ウェブツールです。[Web](http://www.gasolin.idv.tw/public/blockly/demos/blocklyduino/index.html)で、実際に動作するBlocklyDuinoを試すことができます。
 
+例のダイレクトリンク
+* [demo 1](http://www.gasolin.idv.tw/public/blockly/demos/blocklyduino/index.html?url=/public/blockly/demos/blocklyduino/examples/blink.xml)
+* [demo 2](http://www.gasolin.idv.tw/public/blockly/demos/blocklyduino/index.html?url=/public/blockly/demos/blocklyduino/examples/servo_potentio.xml)
 
+ビデオデモを見る [video demo](http://www.youtube.com/watch?v=_swiyXcUvNY)
 
 ### Run locally on your web browser
 
