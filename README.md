@@ -72,11 +72,19 @@ The preffered way is to put the BlocklyDuino/web folder into a web server and op
 2. Select 'Arduino' tab to copy source code to Arduino IDE
 3. press 'upload' button to burn the code into arduino
 
+### 利用法（３ステップ）
+
+1. BlocklyDuinoをブラウザで開く、ブロックをドラッグ・アンド・ドロップしてArduinoプログラムを作る。
+2. 'Arduino' タブを選択して、ソースコードを全て選択してArduinoIDEにコピーする。
+3. ArduinoIDEの 'upload' ボタンを押してArduinoにコードを送る。
 
 
 ### ChangeLog
 
 Check changelog [here](https://github.com/gasolin/BlocklyDuino/blob/master/CHANGELOG.txt)
+
+
+### 
 
 ### Authors and Contributors
 Fred Lin (@gasolin) .
