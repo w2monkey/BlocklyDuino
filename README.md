@@ -97,7 +97,13 @@ Thanks Arduino and Seeeduino guys for Arduino and Grove blocks.
 
 The project is also inspired by arduiblock https://github.com/taweili/ardublock and modkit http://www.modk.it/
 
+### 著者　と　貢献者
+Fred Lin (@gasolin) .
 
+Neil Fraser, Blockly http://code.google.com/p/blockly/　の Q.Neutron　に感謝します。
+Arduino と Arduino and Grove blocks　の開発者に感謝します。
+
+この project は、arduiblock https://github.com/taweili/ardublock と modkit http://www.modk.it/　にインスパイアされています。
 
 ### License
 
